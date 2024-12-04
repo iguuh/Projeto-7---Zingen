@@ -1,0 +1,8 @@
+#about {
+
+    background-color: var(--surface-color);
+
+    & .even-colmuns {
+        gap: 2rem;
+    }
+}
