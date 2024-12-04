@@ -1,6 +1,6 @@
 header {
 
-    &a:first-child {
+    & a:first-child {
         margin-right: auto;
     }
 }
